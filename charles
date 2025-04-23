@@ -1,0 +1,64 @@
+</body><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Eatery Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="menu-container">
+        <h1>Our Menu</h1>
+        <section class="section" id="appetizers">
+            <h2>Appetizers</h2>
+            <ul>
+                <li>
+                    <h3>Coconut Bread</h3>
+                    <p>Classic coconut bread with melted butter and fresh herbs.</p>
+                </li>
+                <li>
+                    <h3>Bruschetta</h3>
+                    <p>Toasted baguette slices topped with diced tomatoes, basil, and balsamic glaze.</p>
+                </li>
+                <li>
+                    <h3>Spinach Artichoke Dip</h3>
+                    <p>Warm and cheesy spinach and artichoke dip, perfect for sharing.</p>
+                </li>
+            </ul>
+        </section>
+        <section class="section" id="main-course">
+            <h2>Main Course</h2>
+            <ul>
+                <li>
+                    <h3>Spaghetti Carbonara</h3>
+                    <p>Creamy spaghetti with pancetta, egg yolks, and Parmesan cheese.</p>
+                </li>
+                <li>
+                    <h3>Honey Garlic Chicken Breast</h3>
+                    <p>This sauce for chicken breast is a variation of my Honey Garlic Salmon which has been popular with readers for many years</p>
+                </li>
+                <li>
+                    <h3>Grilled Salmon</h3>
+                    <p>Perfectly grilled salmon with lemon butter sauce, served with roasted vegetables.</p>
+                </li>
+            </ul>
+        </section>
+        <section class="section" id="desserts">
+            <h2>Desserts</h2>
+            <ul>
+                <li>
+                    <h3>Cookies</h3>
+                    <p>. We have a variety of cookie recipes available, but if you're looking for something easy and delicious that feeds a crowd, you'll love these White Chocolate Macadamia Nut Cookies!
+.</p>
+                </li>
+                <li>
+                    <h3>Dark chocolate</h3>
+                    <p>Dark chocolate is harder than milk chocolate, due to its particle size and fat and lecithin content. Dark chocolate has a more bitter and intense flavor than</p>
+                </li>
+                <li>
+                    <h3>New York Cheesecake</h3>
+                    <p>Creamy New York Style cheesecake on graham cracker crust. Allergens: wheat dairy and egg.</p>
+                </li>
+            </ul>
+        </section>
+    </div>
